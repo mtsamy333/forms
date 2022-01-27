@@ -1,0 +1,13 @@
+p {
+    font-family: Lato;
+  }
+  .jumbotron{
+      border: 2px solid black;
+      background-color: rgb(137, 235, 57);
+      width: 700px;
+      padding: 15px;
+      margin: 0 auto;
+  }
+  h3{
+      font-size: 40px;
+  }
